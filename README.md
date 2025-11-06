@@ -108,11 +108,20 @@ Sou uma pessoa **dedicada**, de **rápido aprendizado** e com forte desejo de co
         <br/> 🚚 <strong>Chamados IA</strong>
       </a>
       <br/>
-      <sub>Plataforma para ajudar colaborados a abrir chamados usando IA integrada.</sub>
+      <sub>Plataforma para ajudar colaboradores a abrir chamados usando IA integrada.</sub>
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-On%20Way%202-007396?style=for-the-badge&logo=python&logoColor=white" />
+      <a href="https://projetowebavancada.onrender.com/index](https://github.com/RafaelBassul/ProjetoInovaWeek">
+        <br/> 🚚 <strong>On Way 2</strong>
+      </a>
+      <br/>
+      <sub>Plataforma para ajudar administradores de frotas.</sub>
+    </td>
 </table>
-
+>
 
 ## 📊 Minhas estatísticas no GitHub
 
