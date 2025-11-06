@@ -138,9 +138,9 @@ Sou uma pessoa **dedicada**, de **rápido aprendizado** e com forte desejo de co
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-f-bassul/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-f-bassul-055263265)
 📬 [Me envie um e-mail](mailto:rafabassul@hotmail.com)
 
 ---
 
-> "A tecnologia move o mundo. O que você criar com ela pode mover pessoas." 🌍
+> "A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro" 🌍
