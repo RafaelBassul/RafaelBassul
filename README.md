@@ -121,12 +121,11 @@ Sou uma pessoa **dedicada**, de **rápido aprendizado** e com forte desejo de co
       <sub>Plataforma para ajudar administradores de frotas.</sub>
     </td>
 </table>
->
+
 
 ## 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBassul&show_icons=true&theme=merko&hide_border=false&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBassul&layout=compact&theme=merko&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
 </p>
 
