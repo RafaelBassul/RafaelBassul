@@ -105,7 +105,7 @@ Sou uma pessoa **dedicada**, de **rápido aprendizado** e com forte desejo de co
     <td align="center">
       <img src="https://img.shields.io/badge/-Chamados%20IA%20-ED8B00?style=for-the-badge&logo=python&logoColor=white" />
       <a href="https://github.com/RafaelBassul/InovaApps">
-        <br/> 🚚 <strong>Chamados IA</strong>
+        <br/> 🤖 <strong>Chamados IA</strong>
       </a>
       <br/>
       <sub>Plataforma para ajudar colaboradores a abrir chamados usando IA integrada.</sub>
@@ -119,6 +119,14 @@ Sou uma pessoa **dedicada**, de **rápido aprendizado** e com forte desejo de co
       </a>
       <br/>
       <sub>Plataforma para ajudar administradores de frotas.</sub>
+    </td>
+      <td align="center">
+      <img src="https://img.shields.io/badge/-SZ%20BASSUL%20-111?style=for-the-badge&logo=python&logoColor=white" />
+      <a href="https://szbassul.vercel.app">
+        <br/> 📠 <strong>SZ BASSUL</strong>
+      </a>
+      <br/>
+      <sub>Site para empresa de maquinas S.Z. Bassul.</sub>
     </td>
 </table>
 
