@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Estou no 6º período de **Ciência da Computação** na **Universidade Vila Velha (UVV)**. Gosto de pegar um problema real, desenhar a solução e colocar no ar. Meus projetos mais recentes são aplicações completas, com banco, autenticação, pagamento e deploy: um mapa de eventos para a cena automotiva capixaba, uma loja de camisetas com pré-venda, um tutor virtual para o Ensino Fundamental e uma plataforma de roteiros de viagem com IA.
+Estou no 8º período de **Ciência da Computação** na **Universidade Vila Velha (UVV)**. Gosto de pegar um problema real, desenhar a solução e colocar no ar. Meus projetos mais recentes são aplicações completas, com banco, autenticação, pagamento e deploy: um mapa de eventos para a cena automotiva capixaba, uma loja de camisetas com pré-venda, um tutor virtual para o Ensino Fundamental e uma plataforma de roteiros de viagem com IA.
 
 Trabalho muito com **IA como ferramenta de desenvolvimento** (Claude Code, Cursor) e também como **parte do produto**: chatbot de chamados, tutor conversacional com RAG e geração de roteiros. Isso me deixa rápido para prototipar, e eu reviso, testo e entendo o que entra no repositório.
 
